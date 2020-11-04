@@ -1,7 +1,7 @@
 # YoloGround
 Labelling 
 
-.NET Framework 4.6.1 \n
+.NET Framework 4.6.1 <br/>
 Window x64
 
 yolo 학습에 사용할 Object 좌표 등록 프로그램.
