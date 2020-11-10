@@ -11,7 +11,7 @@ yolo 학습에 사용할 Object 좌표 등록 프로그램.
 - Number key : Object Id 변경(1초 reset)
 - 방향키 : 이미지 변경
 - Object ID는 기본 20개가 추가됨. 
-
+- wheel : zoom
 
 
 
