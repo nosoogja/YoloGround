@@ -33,4 +33,4 @@ darknet 에서 방향을 틀어서 계산을 하는지 아님 어떤 기준으�
 - https://github.com/nosoogja/ImgResave
 
 
-<img src="KakaoTalk_20201109_232444360.jpg"/>
+<img src="scr.jpg"/>
